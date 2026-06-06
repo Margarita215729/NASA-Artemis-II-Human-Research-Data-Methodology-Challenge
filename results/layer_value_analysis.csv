@@ -1,0 +1,10 @@
+Layer,Output,Value added for HRP
+Raw variables,Dozens of mixed-unit measurements,Hard to interpret; no comparison or structure
+Reference deviation scores,Per-feature z-scores,Shows how unusual each value is vs the reference space
+Biological domain compression,Mean |z| per system,Shows which biological systems are affected
+BACI coherence,0-100 triage score,Shows whether systems shift together (signal vs noise)
+Biological knowledge graph,Conceptual system map,Explains why coordinated shifts are biologically plausible
+Observed proxy graph,Data-derived co-variation,Shows real relationships in the proxy reference space
+Decision / management graph,Pattern -> priority map,Translates patterns into monitoring priorities
+Individual adaptation profile,Per-member report,"Human-readable, individualized interpretation"
+Crew-level summary,Crew-at-a-glance table,Preserves individual differences for the whole crew
