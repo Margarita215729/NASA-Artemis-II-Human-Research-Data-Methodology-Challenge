@@ -1,0 +1,187 @@
+==========================================================================
+NeuroBridge-S4  |  Individual Adaptation Profile
+Pseudo-crew participant (anonymized NHANES SEQN): 97774
+Data source: real NHANES 2017-2018 public data (NOT Artemis II astronaut data)
+==========================================================================
+
+Top deviating features (vs health-filtered reference cohort):
+   - Hematocrit                             reference deviation z = +2.24
+   - Hemoglobin                             reference deviation z = +2.14
+   - Red blood cell count                   reference deviation z = +1.94
+   - Serum albumin                          reference deviation z = +1.87
+   - Body Mass Index (BMI)                  reference deviation z = -1.87
+
+Top affected biological domains:
+   - Hematologic / oxygen-carrying              mean |z| = 2.11
+   - Body composition / physical status         mean |z| = 1.87
+   - Recovery-related markers                   mean |z| = 0.94
+
+BACI score (signal-triage, not a diagnosis): 42 / 100  (mild coherence)
+   A modest, partly coordinated signal; routine monitoring is reasonable.
+   BACI sensitivity: crew ranking across thresholds 0.75/1.00/1.25 was threshold-sensitive (review borderline members).
+
+Network / graph interpretation summary:
+   - Primary cluster: Hematologic / oxygen-carrying
+   - Biologically linked systems to watch alongside it: Inflammation / immune-adjacent, Recovery-related markers
+   - Pattern label: Oxygen-carrying shift
+
+Monitoring priorities (decision-support, not treatment):
+   - hemoglobin / hematocrit follow-up; oxygen-carrying capacity
+   - body-composition tracking; physical conditioning load review
+   - albumin / creatinine recovery markers; recovery-trajectory tracking
+
+Follow-up data streams to prioritize:
+   - sleep / circadian monitoring
+   - HRV / autonomic monitoring
+   - immune biomarker follow-up
+   - metabolic follow-up
+   - cognitive performance monitoring
+   - validated psychological self-report
+   - recovery-trajectory tracking
+
+Countermeasure considerations (categories only, not prescriptions):
+   - oxygen-carrying capacity monitoring consideration
+   - physical-conditioning load consideration
+
+Note: This is decision-support only. No medical diagnosis. No treatment recommendation.
+
+==========================================================================
+NeuroBridge-S4  |  Individual Adaptation Profile
+Pseudo-crew participant (anonymized NHANES SEQN): 94465
+Data source: real NHANES 2017-2018 public data (NOT Artemis II astronaut data)
+==========================================================================
+
+Top deviating features (vs health-filtered reference cohort):
+   - Body Mass Index (BMI)                  reference deviation z = +1.39
+   - Resting pulse (60-second)              reference deviation z = -1.35
+   - Diastolic blood pressure               reference deviation z = -1.26
+   - Waist circumference                    reference deviation z = +1.25
+   - Serum creatinine                       reference deviation z = +0.92
+
+Top affected biological domains:
+   - Body composition / physical status         mean |z| = 1.32
+   - Cardiovascular regulation                  mean |z| = 0.95
+   - Metabolic regulation                       mean |z| = 0.84
+
+BACI score (signal-triage, not a diagnosis): 22 / 100  (low coherence)
+   Deviations look isolated; no coordinated multi-system adaptation signal at this time.
+   BACI sensitivity: crew ranking across thresholds 0.75/1.00/1.25 was threshold-sensitive (review borderline members).
+
+Network / graph interpretation summary:
+   - Primary cluster: Body composition / physical status
+   - Biologically linked systems to watch alongside it: Metabolic regulation, Cardiovascular regulation
+   - Pattern label: Physical-status shift
+
+Monitoring priorities (decision-support, not treatment):
+   - body-composition tracking; physical conditioning load review
+   - HRV / autonomic monitoring; resting HR and blood-pressure tracking
+   - fasting glucose and lipid re-check; nutrition / metabolic follow-up
+
+Follow-up data streams to prioritize:
+   - sleep / circadian monitoring
+   - HRV / autonomic monitoring
+   - immune biomarker follow-up
+   - metabolic follow-up
+   - cognitive performance monitoring
+   - validated psychological self-report
+   - recovery-trajectory tracking
+
+Countermeasure considerations (categories only, not prescriptions):
+   - physical-conditioning load consideration
+   - autonomic/cardiovascular monitoring consideration
+
+Note: This is decision-support only. No medical diagnosis. No treatment recommendation.
+
+==========================================================================
+NeuroBridge-S4  |  Individual Adaptation Profile
+Pseudo-crew participant (anonymized NHANES SEQN): 99813
+Data source: real NHANES 2017-2018 public data (NOT Artemis II astronaut data)
+==========================================================================
+
+Top deviating features (vs health-filtered reference cohort):
+   - High-sensitivity CRP                   reference deviation z = +2.69
+   - Total cholesterol                      reference deviation z = +1.54
+   - Red blood cell count                   reference deviation z = +1.16
+   - Platelet count                         reference deviation z = +0.84
+   - Neutrophil count                       reference deviation z = +0.83
+
+Top affected biological domains:
+   - Metabolic regulation                       mean |z| = 1.16
+   - Inflammation / immune-adjacent             mean |z| = 1.10
+   - Recovery-related markers                   mean |z| = 0.84
+
+BACI score (signal-triage, not a diagnosis): 32 / 100  (mild coherence)
+   A modest, partly coordinated signal; routine monitoring is reasonable.
+   BACI sensitivity: crew ranking across thresholds 0.75/1.00/1.25 was threshold-sensitive (review borderline members).
+
+Network / graph interpretation summary:
+   - Primary cluster: Metabolic regulation
+   - Biologically linked systems to watch alongside it: Cardiovascular regulation, Inflammation / immune-adjacent, Body composition / physical status
+   - Pattern label: Metabolic / fatigue pattern
+
+Monitoring priorities (decision-support, not treatment):
+   - fasting glucose and lipid re-check; nutrition / metabolic follow-up
+   - immune biomarker follow-up (CRP, white-cell differential); stress-immune panel
+   - albumin / creatinine recovery markers; recovery-trajectory tracking
+
+Follow-up data streams to prioritize:
+   - sleep / circadian monitoring
+   - HRV / autonomic monitoring
+   - immune biomarker follow-up
+   - metabolic follow-up
+   - cognitive performance monitoring
+   - validated psychological self-report
+   - recovery-trajectory tracking
+
+Countermeasure considerations (categories only, not prescriptions):
+   - nutrition / metabolic review consideration
+   - immune follow-up and recovery-tracking consideration
+
+Note: This is decision-support only. No medical diagnosis. No treatment recommendation.
+
+==========================================================================
+NeuroBridge-S4  |  Individual Adaptation Profile
+Pseudo-crew participant (anonymized NHANES SEQN): 100987
+Data source: real NHANES 2017-2018 public data (NOT Artemis II astronaut data)
+==========================================================================
+
+Top deviating features (vs health-filtered reference cohort):
+   - Diastolic blood pressure               reference deviation z = +2.01
+   - Systolic blood pressure                reference deviation z = +1.96
+   - Resting pulse (60-second)              reference deviation z = +1.67
+   - Platelet count                         reference deviation z = -1.44
+   - HDL cholesterol                        reference deviation z = -1.08
+
+Top affected biological domains:
+   - Cardiovascular regulation                  mean |z| = 1.88
+   - Recovery-related markers                   mean |z| = 0.71
+   - Metabolic regulation                       mean |z| = 0.69
+
+BACI score (signal-triage, not a diagnosis): 29 / 100  (mild coherence)
+   A modest, partly coordinated signal; routine monitoring is reasonable.
+   BACI sensitivity: crew ranking across thresholds 0.75/1.00/1.25 was threshold-sensitive (review borderline members).
+
+Network / graph interpretation summary:
+   - Primary cluster: Cardiovascular regulation
+   - Biologically linked systems to watch alongside it: Inflammation / immune-adjacent, Metabolic regulation, Body composition / physical status
+   - Pattern label: Autonomic / cardiovascular strain
+
+Monitoring priorities (decision-support, not treatment):
+   - HRV / autonomic monitoring; resting HR and blood-pressure tracking
+   - albumin / creatinine recovery markers; recovery-trajectory tracking
+   - fasting glucose and lipid re-check; nutrition / metabolic follow-up
+
+Follow-up data streams to prioritize:
+   - sleep / circadian monitoring
+   - HRV / autonomic monitoring
+   - immune biomarker follow-up
+   - metabolic follow-up
+   - cognitive performance monitoring
+   - validated psychological self-report
+   - recovery-trajectory tracking
+
+Countermeasure considerations (categories only, not prescriptions):
+   - autonomic/cardiovascular monitoring consideration
+   - recovery-protocol and hydration/nutrition consideration
+
+Note: This is decision-support only. No medical diagnosis. No treatment recommendation.

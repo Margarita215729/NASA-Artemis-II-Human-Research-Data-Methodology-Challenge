@@ -1,0 +1,7 @@
+pandas>=1.5
+numpy>=1.23
+matplotlib>=3.6
+networkx>=3.0
+requests>=2.28
+# Optional: used only for figure styling if already installed.
+# seaborn>=0.12

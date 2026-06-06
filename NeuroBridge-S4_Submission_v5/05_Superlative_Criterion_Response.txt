@@ -1,0 +1,7 @@
+What additional data would enhance the value of the existing data?
+
+The most valuable additional data would not simply be more biomarkers; it would be better temporal alignment across biological, cognitive, behavioral, environmental, and operational streams. For Artemis II and future exploration missions, I would prioritize dense, low-burden longitudinal sampling that links sleep/activity, autonomic regulation, stress biology, immune markers, cognitive performance, validated psychological self-report, and cabin environmental context using a shared timestamp structure.
+
+The highest-value additions would be: (1) multi-week pre-mission individualized baselines; (2) daily or near-daily actigraphy, sleep quality, HR/HRV, and short ecological self-report; (3) minimally invasive saliva or dried sample collection for stress and immune-relevant markers; (4) brief attention/workload tasks; (5) post-mission follow-up at immediate, 24-hour, 72-hour, 1-week, and 1-month intervals; and (6) synchronized environmental variables such as light exposure, CO2, noise, temperature, schedule, and workload context.
+
+This would allow NeuroBridge-S4 to distinguish isolated variation from coordinated adaptation states. The objective is to support astronaut physical and psychological state management: identify when sleep, stress biology, immunity, cognition, and recovery begin to shift together, and determine which monitoring or countermeasure priority should be considered before strain becomes operationally significant.
